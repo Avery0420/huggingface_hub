@@ -1,5 +1,121 @@
 ---
-# For reference on model card metadata, see the spec: https://github.com/huggingface/hub-docs/blob/main/modelcard.md?plain=1
+# For reference on model card metadata, see the speSure! Here’s a script for a TikTok video demonstrating how effortless it is to earn with Cashbly, incorporating promotional images and encouraging your friends or followers to join. 
+
+---
+
+**[Opening Scene]**  
+*Camera shows you smiling and waving at the camera.*
+
+**You**: "Hey TikTok! Want to know how you can earn money effortlessly with Cashbly? Let me show you how easy it is!"
+
+---
+
+**[Transition]**  
+*Quick transition effect (e.g., hand covering the camera, then uncovering to show the next scene).*
+
+**[Scene 2: Introduction to Cashbly]**  
+*Hold your phone showing the Cashbly app screen.*
+
+**You**: "This is Cashbly, the app that lets you earn money effortlessly. Let’s dive into how it works!"
+
+---
+
+**[Scene 3: Earning with Cashbly]**  
+*Show a screenshot or promotional image of the Cashbly app, highlighting the earnings section.*
+
+**You**: "All you need to do is complete simple tasks, watch videos, and take surveys. Each activity earns you cash, and it’s super easy!"
+
+---
+
+**[Scene 4: Showing Earnings]**  
+*Show your earnings on the app by navigating through the Cashbly interface.*
+
+**You**: "Check this out! I’ve already earned [insert your actual or example earnings] just by spending a few minutes each day on Cashbly."
+
+---
+
+**[Scene 5: Friends Earning Too]**  
+*Show a screenshot or promotional image of a referral bonus feature.*
+
+**You**: "But wait, it gets better! You can earn even more by inviting your friends. Each time a friend joins using your referral code, you get a bonus!"
+
+---
+
+**[Scene 6: Call to Action]**  
+*Hold up a sign with your referral code or display it on the screen.*
+
+**You**: "So what are you waiting for? Download Cashbly, use my referral code [insert referral code], and start earning today!"
+
+---
+
+**[Scene 7: Closing Scene]**  
+*Back to you, smiling and showing the Cashbly app.*
+
+**You**: "Give it a try and let me know how much you earn in the comments! Don’t forget to like, share, and follow for more tips on earning extra cash. See you next time!"
+
+*End with you giving a thumbs up and winking at the camera.*
+
+---
+
+To enhance your content, you can insert the promotional images from Cashbly in relevant parts of the video, especially when you’re talking about earnings and referral bonuses. Ensure the images are clear and support your narration effectively. Enjoy making your TikTok video!Sure! Here’s a script for a TikTok video demonstrating how effortless it is to earn with Cashbly, incorporating promotional images and encouraging your friends or followers to join. 
+
+---
+
+**[Opening Scene]**  
+*Camera shows you smiling and waving at the camera.*
+
+**You**: "Hey TikTok! Want to know how you can earn money effortlessly with Cashbly? Let me show you how easy it is!"
+
+---
+
+**[Transition]**  
+*Quick transition effect (e.g., hand covering the camera, then uncovering to show the next scene).*
+
+**[Scene 2: Introduction to Cashbly]**  
+*Hold your phone showing the Cashbly app screen.*
+
+**You**: "This is Cashbly, the app that lets you earn money effortlessly. Let’s dive into how it works!"
+
+---
+
+**[Scene 3: Earning with Cashbly]**  
+*Show a screenshot or promotional image of the Cashbly app, highlighting the earnings section.*
+
+**You**: "All you need to do is complete simple tasks, watch videos, and take surveys. Each activity earns you cash, and it’s super easy!"
+
+---
+
+**[Scene 4: Showing Earnings]**  
+*Show your earnings on the app by navigating through the Cashbly interface.*
+
+**You**: "Check this out! I’ve already earned [insert your actual or example earnings] just by spending a few minutes each day on Cashbly."
+
+---
+
+**[Scene 5: Friends Earning Too]**  
+*Show a screenshot or promotional image of a referral bonus feature.*
+
+**You**: "But wait, it gets better! You can earn even more by inviting your friends. Each time a friend joins using your referral code, you get a bonus!"
+
+---
+
+**[Scene 6: Call to Action]**  
+*Hold up a sign with your referral code or display it on the screen.*
+
+**You**: "So what are you waiting for? Download Cashbly, use my referral code [insert referral code], and start earning today!"
+
+---
+
+**[Scene 7: Closing Scene]**  
+*Back to you, smiling and showing the Cashbly app.*
+
+**You**: "Give it a try and let me know how much you earn in the comments! Don’t forget to like, share, and follow for more tips on earning extra cash. See you next time!"
+
+*End with you giving a thumbs up and winking at the camera.*
+
+---
+
+To enhance your content, you can insert the promotional images from Cashbly in relevant parts of the video, especially when you’re talking about earnings and referral bonuses. Ensure the images are clear and support your narration effectively. Enjoy making your TikTok video! ic: https://github.com/huggingface/hub-docs/blob/main/modelcard.md?plain=1
 # Doc / guide: https://huggingface.co/docs/hub/model-cards
 {{ card_data }}
 ---
